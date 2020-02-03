@@ -1,0 +1,9 @@
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\obj\Debug\BuricMarioDialogResult.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\obj\Debug\BuricMarioDialogResult.Form1.resources
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\obj\Debug\BuricMarioDialogResult.Properties.Resources.resources
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\obj\Debug\BuricMarioDialogResult.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\bin\Debug\BuricMarioDialogResult.exe.config
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\bin\Debug\BuricMarioDialogResult.exe
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\bin\Debug\BuricMarioDialogResult.pdb
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\obj\Debug\BuricMarioDialogResult.exe
+C:\Users\korisnik\source\repos\BuricMarioDialogResult\BuricMarioDialogResult\obj\Debug\BuricMarioDialogResult.pdb
